@@ -2,7 +2,7 @@
 
 VER=1.0
 USERNAME="qcgzxw"
-PROJECT="https://github.com/qcgzxw/emby-server-crack"
+PROJECT="https://github.com/qwertykolea/emby-server-crack"
 PROJECT_NAME="emby-server-crack"
 BRANCH="main"
 GITHUB_CDN="https://cdn.jsdelivr.net/gh"
