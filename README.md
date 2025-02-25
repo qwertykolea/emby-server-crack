@@ -3,7 +3,7 @@ Emby server crack.
 
 ## How to
 ```shell
-wget --no-check-certificate https://cdn.jsdelivr.net/gh/qcgzxw/emby-server-crack@main/embyServerCrack.sh -O embyServerCrack.sh
+wget --no-check-certificate https://raw.githubusercontent.com/qwertykolea/emby-server-crack/refs/heads/main/embyServerCrack.sh -O embyServerCrack.sh
 
 sh embyServerCrack.sh
 ```
